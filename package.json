@@ -1,0 +1,22 @@
+{
+  "name": "blockchain-ot6-transparentinteractionwithgov",
+  "version": "1.0.0",
+  "description": "Problem Statement- Government has 3 layers: Central, State and Local bodies of governance and every citizen interacts with either of the layer sharing same or different documents to prove who he say is and what he is requesting he has legal authority to request that document. Citizens avail various documents from 1 layer/department which may not be considered by other departments, conceptualize and build a document workflow system which enables the document sharing and auto validates and ensures traceability of the document reducing the verification cycle and doing auto validation without human involvement.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InternityFoundation/Blockchain-OT6-TransparentInteractionWithGov.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InternityFoundation/Blockchain-OT6-TransparentInteractionWithGov/issues"
+  },
+  "homepage": "https://github.com/InternityFoundation/Blockchain-OT6-TransparentInteractionWithGov#readme"
+}
