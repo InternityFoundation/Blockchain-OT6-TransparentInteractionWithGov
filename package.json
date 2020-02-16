@@ -20,6 +20,14 @@
   },
   "homepage": "https://github.com/InternityFoundation/Blockchain-OT6-TransparentInteractionWithGov#readme",
   "dependencies": {
-    "dotenv": "^8.2.0"
+    "await": "^0.2.6",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "ethereumjs-tx": "^2.1.2",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "json-stringify-safe": "^5.0.1",
+    "web3": "^1.2.6",
+    "web3-eth": "^1.2.6"
   }
 }

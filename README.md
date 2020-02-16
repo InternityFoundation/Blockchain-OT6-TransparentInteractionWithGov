@@ -1,7 +1,18 @@
 # Blockchain-OT6-TransparentInteractionWithGov
 Problem Statement- Government has 3 layers: Central, State and Local bodies of governance and every citizen interacts with either of the layer sharing same or different documents to prove who he say is and what he is requesting he has legal authority to request that document. Citizens avail various documents from 1 layer/department which may not be considered by other departments, conceptualize and build a document workflow system which enables the document sharing and auto validates and ensures traceability of the document reducing the verification cycle and doing auto validation without human involvement.
 
+## How to get started - 
 
+```
+npm install
+
+Make .env file 
+
+truffle compile
+
+truffle migrate --network ropsten
+
+```
 ## Deployment Details
 
 ```
@@ -124,3 +135,12 @@ Summary
 > Final cost:          0.02225926 ETH
 
 ```
+
+
+## If you want to interact with contract with UI - 
+
+https://www.myetherwallet.com/interface/interact-with-contract
+
+1. Connect with metamask.
+2. Provide Contract Address.
+3. Provide ABI Code.
