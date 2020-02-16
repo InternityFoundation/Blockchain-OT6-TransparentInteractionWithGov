@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/InternityFoundation/Blockchain-OT6-TransparentInteractionWithGov/issues"
   },
-  "homepage": "https://github.com/InternityFoundation/Blockchain-OT6-TransparentInteractionWithGov#readme"
+  "homepage": "https://github.com/InternityFoundation/Blockchain-OT6-TransparentInteractionWithGov#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
 }
